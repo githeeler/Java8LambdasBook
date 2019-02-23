@@ -5,8 +5,6 @@ import ch0.utilities.SampleData;
 public class Exercises {
 
 	public static void main(String[] args) {
-		
-		//start
 		excercise1();
 
 	}
