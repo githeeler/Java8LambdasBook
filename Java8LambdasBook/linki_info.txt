@@ -7,16 +7,16 @@ https://github.com/RichardWarburton/java-8-lambdas-exercises
 
 
 moj github:
-
 https://github.com/githeeler
-
-
-
-
 https://github.com/githeeler/Java8LambdasBook.git
 
 
 
-Tutorial gitHuba:
+Import GitHub Java Project into Eclipse and Run it
+https://www.youtube.com/watch?v=38JFCqi_X3c
 
-https://www.youtube.com/watch?v=r5C6yXNaSGo
+
+
+
+Tutorial gitHuba (create github repo fro local repo):
+https://www.youtube.com/watch?v=HuhJ22oHyfc
