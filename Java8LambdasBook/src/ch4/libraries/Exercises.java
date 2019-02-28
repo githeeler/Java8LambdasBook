@@ -1,15 +1,13 @@
 package ch4.libraries;
 
+import ch0.utilities.Artists;
 import ch0.utilities.SampleData;
 
 public class Exercises {
 
 	public static void main(String[] args) {
-		excercise1();
-		//ssss
-		//ccc
-		//xxx
-
+		//excercise1();
+		excercise3();
 	}
 
 	
@@ -23,5 +21,18 @@ public class Exercises {
 				System.out.println("the Album " + album.getName() + " has " + album.getAllMusicans().count() + " musicans");
 				});
 	}
+	
+	public static void excercise3()
+	{
+		
+		Artists artists = new Artists(SampleData.membersOfTheBeatles);
+		
+		System.out.println( "The 4 artist has name : " + artists.getArtistName(3));
+		
+		System.out.println( "The 5 artist has name : " + artists.getArtistName(4));
+		
+	}
+	
+	
 	
 }
