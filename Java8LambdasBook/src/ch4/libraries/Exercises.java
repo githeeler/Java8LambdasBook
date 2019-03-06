@@ -6,8 +6,10 @@ import ch0.utilities.SampleData;
 public class Exercises {
 
 	public static void main(String[] args) {
+		
 		//excercise1();
 		excercise3();
+		
 	}
 
 	
