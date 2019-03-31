@@ -3,7 +3,10 @@ package ch3.streams;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-import ch0.utilities.*;
+
+import ch0.utilities.Album;
+import ch0.utilities.Artist;
+import ch0.utilities.SampleData;
 
 public class Exercises {
 

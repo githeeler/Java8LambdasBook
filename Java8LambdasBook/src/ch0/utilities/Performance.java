@@ -1,8 +1,8 @@
 package ch0.utilities;
 
-import java.util.stream.Stream;
-
 import static java.util.stream.Stream.concat;
+
+import java.util.stream.Stream;
 
 public interface Performance {
 

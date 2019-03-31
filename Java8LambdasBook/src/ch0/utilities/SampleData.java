@@ -1,17 +1,17 @@
 package ch0.utilities;
 
+import static java.util.Arrays.asList;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
-
-import static java.util.Arrays.asList;
 
 public class SampleData {
 
     public static final Artist johnColtrane = new Artist("John Coltrane", "US");
     public static final Artist johnLennon = new Artist("John Lennon", "UK");
     public static final Artist paulMcCartney = new Artist("Paul McCartney", "UK");
-    public static final Artist georgeHarrison = new Artist("George Harrison", "UK");
+    public static final Artist georgeHarrison = new Artist("George Harrison fifth", "UK");
     public static final Artist ringoStarr = new Artist("Ringo Starr", "UK");
 
     public static final List<Artist> membersOfTheBeatles = Arrays.asList(johnLennon, paulMcCartney, georgeHarrison, ringoStarr);
