@@ -1,9 +1,7 @@
 package ch5.advColAndColl;
 
-import java.util.Comparator;
 import java.util.Map;
 import java.util.Optional;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -18,6 +16,8 @@ public class Exercises {
 		excercise1();
 		
 		excercise2();
+		
+		excercise3();
 	}
 	
 	public static void excercise1()
@@ -66,4 +66,11 @@ public class Exercises {
 		System.out.println("Map with names occurences: "+ countNmaesMap.toString());
 		
 	}
+	
+	public static void excercise3()
+	{
+		
+	}
+	
+	
 }
